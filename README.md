@@ -1,4 +1,4 @@
-# ActiveDirectory
+# Active Directory
 
 # Honeynet: Real-Time Azure Cloud Defense SOC
 ![Cloud Honeynet / SOC](https://i.imgur.com/M97KMNu.jpg)
