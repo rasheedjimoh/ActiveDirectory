@@ -13,9 +13,9 @@ Let's embark on a modest exploration into the intricacies of Windows Server 2022
 - NAT/RAS
 - PowerShell for Automating account creation and management
 
-## Process
+## Process/Procedure
 
-#Windows Server
+Windows Server
 1. Add ADDS role.
 2. Promote to DC.
 3. Created an Admin account.
@@ -35,11 +35,11 @@ Windows Client
 In conclusion, this mini project with Windows Server 2022 and Windows 10 Pro showcases our dedication to precision and efficiency in IT management. From addressing server challenges to creating a secure Windows environment, every step reflects a commitment to excellence. The seamless integration of Windows clients, automated account creation, and DHCP scope establishment highlights our focus on user-centric design. This mini project is not just a technical accomplishment but a testament to our capacity for innovation. It fortifies our foundation for future endeavours, emphasizing our commitment to achieving excellence in IT with continuous improvement.
 
 
-## Process
-NAT
-RAS
-DC
-ADDS
-ADUC
-DHCP
-NIC
+## Acronyms
+1. **NAT (Network Address Translation):** Translates addresses for communication between different networks.
+2. **RAS (Remote Access Service):** Enables secure remote connections, acting as a virtual bridge for distant access to computers.
+3. **DC (Domain Controller):** Central authority managing permissions in a network.
+4. **ADDS (Active Directory Domain Services):** Efficiently organizes and manages network entities for seamless operations.
+5. **ADUC (Active Directory Users and Computers):** User-friendly control panel managing users, computers, and devices in a network.
+6. **DHCP (Dynamic Host Configuration Protocol):** Dynamically assigns unique IP addresses, simplifying network configuration.
+7. **NIC (Network Interface Card):** Essential hardware enabling computer connectivity and communication within a network.
