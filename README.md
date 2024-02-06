@@ -15,7 +15,7 @@ Let's embark on a modest exploration into the intricacies of Windows Server 2022
 
 ## Process/Procedure
 
-Windows Server
+**Windows Server**
 1. Add ADDS role.
 2. Promote to DC.
 3. Created an Admin account.
@@ -25,7 +25,7 @@ Windows Server
 7. Automate account creation.
 8. Join the client computer to the DC.
 
-Windows Client
+**Windows Client**
 1. Setup Windows 10
 2. Joined domain using private IP
 3. Prove reachability by pinging Google, Cloudflare and the DC
