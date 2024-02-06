@@ -1,10 +1,11 @@
 # Active Directory
 
+## Introduction
+Let's embark on a modest exploration into the intricacies of Windows Server 2022 and Windows 10 Pro in our ongoing project. This endeavour humbly tackles server challenges, addressing nuances like power options and network settings. We navigate the elevation of Windows Server through roles, the creation of admin accounts, and the configuration of remote access. Witness the simplicity of account automation, establishing DHCP scopes, and seamlessly integrating Windows clients into the domain. Join us on this unassuming journey as we craft a secure and interconnected Windows environment, demonstrating reachability through ping tests and laying the groundwork for a sturdy IT infrastructure.
+
 ![domain-joined](https://github.com/rasheedjimoh/ActiveDirectory/assets/157264080/3e488293-b8bd-4b05-bbf8-8533196d9f91)
 
 
-## Introduction
-Let's embark on a modest exploration into the intricacies of Windows Server 2022 and Windows 10 Pro in our ongoing project. This endeavour humbly tackles server challenges, addressing nuances like power options and network settings. We navigate the elevation of Windows Server through roles, the creation of admin accounts, and the configuration of remote access. Witness the simplicity of account automation, establishing DHCP scopes, and seamlessly integrating Windows clients into the domain. Join us on this unassuming journey as we craft a secure and interconnected Windows environment, demonstrating reachability through ping tests and laying the groundwork for a sturdy IT infrastructure.
 
 
 ## Technologies/Stacks
@@ -54,7 +55,7 @@ Let's embark on a modest exploration into the intricacies of Windows Server 2022
 ![reachability-testing-for-client1](https://github.com/rasheedjimoh/ActiveDirectory/assets/157264080/864980c4-c740-4e10-94c5-c4bc124a47ff)
 
 
-**names notepad of supposed staffs**
+**Names notepad of supposed staff members**
 ![names](https://github.com/rasheedjimoh/ActiveDirectory/assets/157264080/0fa20f76-cf96-4b90-bdf8-801f052fdb55)
 
 
@@ -62,6 +63,7 @@ Let's embark on a modest exploration into the intricacies of Windows Server 2022
 
 ## Conclusion
 In conclusion, this mini project with Windows Server 2022 and Windows 10 Pro showcases our dedication to precision and efficiency in IT management. From addressing server challenges to creating a secure Windows environment, every step reflects a commitment to excellence. The seamless integration of Windows clients, automated account creation, and DHCP scope establishment highlights our focus on user-centric design. This mini project is not just a technical accomplishment but a testament to our capacity for innovation. It fortifies our foundation for future endeavours, emphasizing our commitment to achieving excellence in IT with continuous improvement.
+
 
 
 ## Acronyms
