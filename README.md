@@ -1,5 +1,5 @@
 # Active Directory
-![UbuntuAD](https://i.imgur.com/M9s7KMNu.jpg)
+![AD](https://i.imgur.com/M9s7KMNu.jpg)
 
 ## Introduction
 Let's embark on a modest exploration into the intricacies of Windows Server 2022 and Windows 10 Pro in our ongoing project. This endeavour humbly tackles server challenges, addressing nuances like power options and network settings. We navigate the elevation of Windows Server through roles, the creation of admin accounts, and the configuration of remote access. Witness the simplicity of account automation, establishing DHCP scopes, and seamlessly integrating Windows clients into the domain. Join us on this unassuming journey as we craft a secure and interconnected Windows environment, demonstrating reachability through ping tests and laying the groundwork for a sturdy IT infrastructure.
