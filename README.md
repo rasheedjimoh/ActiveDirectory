@@ -59,6 +59,13 @@ Let's embark on a modest exploration into the intricacies of Windows Server 2022
 ![names](https://github.com/rasheedjimoh/ActiveDirectory/assets/157264080/0fa20f76-cf96-4b90-bdf8-801f052fdb55)
 
 
+## Scripts
+
+**Name generation script**
+![generate-names](https://github.com/rasheedjimoh/ActiveDirectory/assets/157264080/8d57b221-ff37-4526-9e03-572977c7f6bf)
+
+**Account creation script**
+![account-creation script](https://github.com/rasheedjimoh/ActiveDirectory/assets/157264080/7549e2af-8fd7-4742-8fc2-76182f64c3fa)
 
 
 ## Conclusion
