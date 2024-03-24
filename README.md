@@ -6,6 +6,16 @@ Let's embark on a modest exploration into the intricacies of Windows Server 2022
 ![domain-joined](https://github.com/rasheedjimoh/ActiveDirectory/assets/157264080/3e488293-b8bd-4b05-bbf8-8533196d9f91)
 
 
+
+## Technologies/Stacks
+- Active Directory(Active Directory Domain Services and Active Directory Users and Computers)
+- DHCP
+- DNS
+- Remote Access
+- Domain Controller
+- NAT/RAS
+- PowerShell for Automating account creation and management
+
 ## Why We Need It
 
 In the realm of IT infrastructure management, the integration of Active Directory (AD) plays a pivotal role in ensuring seamless operations, robust security, and efficient user management. Let's delve into why this integration is indispensable:
@@ -27,16 +37,6 @@ In the realm of IT infrastructure management, the integration of Active Director
 In essence, the integration of Active Directory is indispensable for organizations seeking to establish a robust, secure, and efficient IT infrastructure. By centralizing user management, enhancing security measures, and streamlining resource management, AD empowers organizations to optimize their operations, safeguard their assets, and adapt to evolving business needs with confidence.
 
 ----
-
-
-## Technologies/Stacks
-- Active Directory(Active Directory Domain Services and Active Directory Users and Computers)
-- DHCP
-- DNS
-- Remote Access
-- Domain Controller
-- NAT/RAS
-- PowerShell for Automating account creation and management
 
 ## Process/Procedure
 
